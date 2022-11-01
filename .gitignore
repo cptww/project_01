@@ -1,0 +1,5 @@
+# 忽略new.html文件
+new.html
+
+#忽略所有test文件夹
+test/
